@@ -1,5 +1,5 @@
 def bash_hash
   monopoly= {
-    railroads => {}
+    :railroads => {}
   }
 end
