@@ -1,5 +1,5 @@
 def hash_bash
-key=  {
+monopoly=  {
       railroads: {}
     }
   end
