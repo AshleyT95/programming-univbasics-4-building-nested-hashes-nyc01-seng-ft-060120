@@ -1,4 +1,4 @@
-def hash_bash
+def monopoly
 monopoly =  {
   :railroads=>
   {
