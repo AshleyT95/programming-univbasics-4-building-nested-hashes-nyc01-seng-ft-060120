@@ -1,3 +1,5 @@
 def bash_hash
-  bash_hash= railroads => {}
+  monopoly= {
+    railroads => {}
+  }
 end
