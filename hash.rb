@@ -1,4 +1,4 @@
-def bash_hash
+def bash_hash(key)
   monopoly= {
     :railroads => {}
   }
